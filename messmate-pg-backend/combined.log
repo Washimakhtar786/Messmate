@@ -1,0 +1,57 @@
+[2026-06-28 12:16:26] INFO: Checking Environment Variables...
+[2026-06-28 12:16:26] INFO: {
+  "PASSWORD_SET": false
+}
+[2026-06-28 12:16:36] INFO: ✅ PostgreSQL Connected
+[2026-06-28 12:16:37] INFO: ✅ Models Synced
+[2026-06-28 12:16:37] INFO: 🚀 Server running on http://localhost:4000
+[2026-06-28 12:23:00] INFO: Checking Environment Variables...
+[2026-06-28 12:23:00] INFO: {
+  "PASSWORD_SET": false
+}
+[2026-06-28 12:23:09] INFO: ✅ PostgreSQL Connected
+[2026-06-28 12:23:10] INFO: ✅ Models Synced
+[2026-06-28 12:23:10] INFO: 🚀 Server running on http://localhost:4000
+[2026-06-28 12:27:50] INFO: Checking Environment Variables...
+[2026-06-28 12:27:50] INFO: {
+  "PASSWORD_SET": false
+}
+[2026-06-28 12:28:25] INFO: ✅ PostgreSQL Connected
+[2026-06-28 12:28:35] INFO: ✅ Models Synced
+[2026-06-28 12:28:35] INFO: 🚀 Server running on http://localhost:4000
+[2026-06-28 12:30:15] INFO: Checking Environment Variables...
+[2026-06-28 12:30:15] INFO: {
+  "PASSWORD_SET": false
+}
+[2026-06-28 12:30:31] INFO: ✅ PostgreSQL Connected
+[2026-06-28 12:30:34] INFO: ✅ Models Synced
+[2026-06-28 12:30:34] INFO: 🚀 Server running on http://localhost:4000
+[2026-06-28 12:30:40] ERROR: Error: Testing Global Error
+    at C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\index.js:57:17
+    at Layer.handleRequest (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\index.js:291:5)
+    at logger (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\morgan\index.js:170:5)
+[2026-06-28 12:30:41] ERROR: Error: Testing Global Error
+    at C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\index.js:57:17
+    at Layer.handleRequest (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\index.js:295:15
+    at processParams (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\index.js:291:5)
+    at logger (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\morgan\index.js:170:5)
+[2026-06-28 12:35:19] INFO: Checking Environment Variables...
+[2026-06-28 12:35:19] INFO: {
+  "PASSWORD_SET": false
+}
+[2026-06-28 12:35:29] INFO: ✅ PostgreSQL Connected
+[2026-06-28 12:35:31] INFO: ✅ Models Synced
+[2026-06-28 12:35:31] INFO: 🚀 Server running on http://localhost:4000
