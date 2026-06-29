@@ -55,3 +55,22 @@
 [2026-06-28 12:35:29] INFO: ✅ PostgreSQL Connected
 [2026-06-28 12:35:31] INFO: ✅ Models Synced
 [2026-06-28 12:35:31] INFO: 🚀 Server running on http://localhost:4000
+[2026-06-28 18:08:06] INFO: Checking Environment Variables...
+[2026-06-28 18:08:06] INFO: {
+  "PASSWORD_SET": false
+}
+[2026-06-28 18:08:18] ERROR: ❌ Database Error: getaddrinfo ENOTFOUND ep-patient-lake-atzssgwo-pooler.c-9.us-east-1.aws.neon.tech
+[2026-06-28 18:13:24] INFO: Checking Environment Variables...
+[2026-06-28 18:13:24] INFO: {
+  "PASSWORD_SET": false
+}
+[2026-06-28 18:13:32] INFO: ✅ PostgreSQL Connected
+[2026-06-28 18:13:34] INFO: ✅ Models Synced
+[2026-06-28 18:13:34] INFO: 🚀 Server running on http://localhost:4000
+[2026-06-29 10:55:01] INFO: Checking Environment Variables...
+[2026-06-29 10:55:01] INFO: {
+  "PASSWORD_SET": false
+}
+[2026-06-29 10:55:11] INFO: ✅ PostgreSQL Connected
+[2026-06-29 10:55:13] INFO: ✅ Models Synced
+[2026-06-29 10:55:13] INFO: 🚀 Server running on http://localhost:4000

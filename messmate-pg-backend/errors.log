@@ -20,3 +20,4 @@
     at processParams (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\index.js:582:12)
     at next (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\router\index.js:291:5)
     at logger (C:\Users\washi\OneDrive\Desktop\Messmate New\messmate-pg-backend\node_modules\morgan\index.js:170:5)
+[2026-06-28 18:08:18] ERROR: ❌ Database Error: getaddrinfo ENOTFOUND ep-patient-lake-atzssgwo-pooler.c-9.us-east-1.aws.neon.tech
