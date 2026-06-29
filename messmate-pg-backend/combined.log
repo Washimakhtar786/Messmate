@@ -74,3 +74,10 @@
 [2026-06-29 10:55:11] INFO: ✅ PostgreSQL Connected
 [2026-06-29 10:55:13] INFO: ✅ Models Synced
 [2026-06-29 10:55:13] INFO: 🚀 Server running on http://localhost:4000
+[2026-06-29 11:16:25] INFO: Checking Environment Variables...
+[2026-06-29 11:16:25] INFO: {
+  "PASSWORD_SET": false
+}
+[2026-06-29 11:16:33] INFO: ✅ PostgreSQL Connected
+[2026-06-29 11:16:34] INFO: ✅ Models Synced
+[2026-06-29 11:16:34] INFO: 🚀 Server running on http://localhost:4000
