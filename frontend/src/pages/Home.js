@@ -6,77 +6,99 @@ function Home() {
 
       {/* Hero Section */}
 
-      <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white">
+      {/* Hero Section */}
 
-        <div className="max-w-7xl mx-auto px-8 py-24">
+<section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white">
 
-          <div className="grid md:grid-cols-2 gap-12 items-center">
+  <div className="max-w-7xl mx-auto px-6 sm:px-8 lg:px-12 py-16 md:py-24">
 
-            <div>
+    <div className="grid lg:grid-cols-2 gap-12 items-center">
 
-              <h1 className="text-6xl font-bold leading-tight mb-6">
-                Smart Mess
-                Management
-                for Students
-              </h1>
+      <div className="max-w-2xl">
 
-              <p className="text-xl text-blue-100 mb-8">
-                Discover, manage and compare
-                hostel messes with ease.
-                Built for students and mess owners.
-              </p>
+        <h1
+          className="
+            text-5xl
+            sm:text-6xl
+            lg:text-7xl
+            font-bold
+            leading-tight
+            mb-6
+          "
+        >
+          Smart Mess
+          <br />
+          Management
+          <br />
+          for Students
+        </h1>
 
-              <div className="flex gap-4">
+        <p
+          className="
+            text-base
+            sm:text-lg
+            lg:text-xl
+            text-blue-100
+            leading-8
+            max-w-xl
+            mb-8
+          "
+        >
+          Discover, manage and compare hostel messes with ease.
+          Built for students and mess owners.
+        </p>
 
-                <Link
-                  to="/signup"
-                  className="
-                    bg-white
-                    text-blue-700
-                    px-8
-                    py-4
-                    rounded-xl
-                    font-semibold
-                    shadow-lg
-                    hover:scale-105
-                    transition
-                  "
-                >
-                  Get Started
-                </Link>
+        <div className="flex flex-col sm:flex-row gap-4">
 
-                <Link
-                  to="/login"
-                  className="
-                    border-2
-                    border-white
-                    px-8
-                    py-4
-                    rounded-xl
-                    font-semibold
-                    hover:bg-white
-                    hover:text-blue-700
-                    transition
-                  "
-                >
-                  Login
-                </Link>
+          <Link
+            to="/signup"
+            className="
+              bg-white
+              text-blue-700
+              px-8
+              py-4
+              rounded-xl
+              font-semibold
+              shadow-lg
+              hover:scale-105
+              transition
+              text-center
+            "
+          >
+            Get Started
+          </Link>
 
-              </div>
-
-            </div>
-
-            <div className="flex justify-center">
-
-              
-
-            </div>
-
-          </div>
+          <Link
+            to="/login"
+            className="
+              border-2
+              border-white
+              px-8
+              py-4
+              rounded-xl
+              font-semibold
+              hover:bg-white
+              hover:text-blue-700
+              transition
+              text-center
+            "
+          >
+            Login
+          </Link>
 
         </div>
 
-      </section>
+      </div>
+
+      {/* Right Side Image */}
+
+      
+
+    </div>
+
+  </div>
+
+</section>
 
       {/* Features */}
 
@@ -84,7 +106,7 @@ function Home() {
 
         <div className="max-w-7xl mx-auto px-8">
 
-          <h2 className="text-4xl font-bold text-center mb-16">
+          <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">
             Why Choose MessMate?
           </h2>
 
@@ -150,7 +172,7 @@ function Home() {
           <div className="grid md:grid-cols-4 gap-8 text-center">
 
             <div>
-              <h3 className="text-5xl font-bold text-blue-600">
+              <h3 className="text-4xl md:text-5xl font-bold text-blue-600">
                 500+
               </h3>
               <p className="text-gray-600 mt-2">
@@ -159,7 +181,7 @@ function Home() {
             </div>
 
             <div>
-              <h3 className="text-5xl font-bold text-green-600">
+              <h3 className="text-4xl md:text-5xl font-bold text-green-600">
                 50+
               </h3>
               <p className="text-gray-600 mt-2">
@@ -168,7 +190,7 @@ function Home() {
             </div>
 
             <div>
-              <h3 className="text-5xl font-bold text-orange-500">
+              <h3 className="text-4xl md:text-5xl font-bold text-orange-500">
                 20+
               </h3>
               <p className="text-gray-600 mt-2">
@@ -177,7 +199,7 @@ function Home() {
             </div>
 
             <div>
-              <h3 className="text-5xl font-bold text-purple-600">
+              <h3 className="text-4xl md:text-5xl font-bold text-purple-600">
                 99%
               </h3>
               <p className="text-gray-600 mt-2">
@@ -197,11 +219,11 @@ function Home() {
 
         <div className="max-w-4xl mx-auto text-center px-8">
 
-          <h2 className="text-5xl font-bold mb-6">
+          <h2 className="text-3xl md:text-5xl font-bold mb-6">
             Ready to Manage Your Mess?
           </h2>
 
-          <p className="text-xl mb-8">
+          <p className="text-lg md:text-xl mb-8">
             Join MessMate and simplify
             hostel mess management today.
           </p>
